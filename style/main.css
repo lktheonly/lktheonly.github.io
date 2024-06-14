@@ -1,9 +1,11 @@
 body{
-	background-color:grey;
+	background-color:#333399;
+	background-image: linear-gradient(to right, #8000ff, #4000ff);
 }
 
 h1{
-	text-shadow: 2px 2px red;
+	text-align: center;
+	!text-shadow: 2px 2px red;
 }
 ul {
   list-style-type: none;
