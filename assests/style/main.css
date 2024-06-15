@@ -1,0 +1,52 @@
+body.home{
+	background-image: url('/assests/images/robot-front-standing01.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	!background-color:#333399;
+	!background-image: linear-gradient(to right, #8000ff, #4000ff);
+}
+
+body.about{
+	background-image: url('/assests/images/robot-front-pushup01.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	!background-color:#333399;
+	!background-image: linear-gradient(to right, #8000ff, #4000ff);
+}
+
+h1{
+	color: white;
+	text-align: center;
+	!text-shadow: 2px 2px red;
+}
+
+h2{
+	color: white;
+	text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-radius: 15px 50px ;
+  background-color: #333;
+}
+
+li {
+  float: middle;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color: #333;
+}
