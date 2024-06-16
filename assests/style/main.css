@@ -2,6 +2,7 @@ body.home{
 	background-image: url('/assests/images/robot-front-standing01.jpeg');
 	background-repeat: no-repeat;
 	background-size: 100%;
+	background-attachment: scroll;
 	!background-color:#333399;
 	!background-image: linear-gradient(to right, #8000ff, #4000ff);
 }
