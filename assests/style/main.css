@@ -26,7 +26,7 @@ h2{
 	text-align: center;
 }
 
-ul.menu01 {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 10%;
@@ -51,8 +51,4 @@ li a {
 li a:hover {
   background-color: white;
   color: #333;
-}
-div.bgcenter {
-	background: rgba ((8,0,0,0.8);
-	background-size: 60% 80%;
 }
