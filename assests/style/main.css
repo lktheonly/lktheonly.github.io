@@ -54,4 +54,5 @@ li a:hover {
 }
 div.bgcenter {
 	background: rgba ((8,0,0,0.8);
+	background-size: 60% 80%;
 }
