@@ -29,9 +29,9 @@ h2{
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 10%;
+  !padding: 10%;
   overflow: hidden;
-  float: middle;
+  !float: middle;
   border-radius: 15px 50px ;
   background-color: #333;
 }
