@@ -1,3 +1,7 @@
+body{
+  font-family: monospace;
+}
+
 body.home{
 	background-image: url('/assests/images/robot-front-standing01.jpeg');
 	background-repeat: no-repeat;
@@ -64,7 +68,7 @@ li a:hover {
   color: #333;
 }
 
-div.body01{
+div.bodycore{
 /*
   top right bottom left 
   height: 100px;
@@ -72,9 +76,11 @@ div.body01{
 */
   border: 0px outset #333; 
   padding: 0px;
+  text-color: white;
   text-align: center;
   box-sizing: border-box;
   background-color: #333;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
+  width: 60%;
 }
