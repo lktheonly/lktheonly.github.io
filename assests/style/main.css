@@ -3,22 +3,28 @@ body.home{
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-attachment: scroll;
-	!background-color:#333399;
-	!background-image: linear-gradient(to right, #8000ff, #4000ff);
+/*	
+  background-color:#333399;
+	background-image: linear-gradient(to right, #8000ff, #4000ff);
+*/
 }
 
 body.about{
 	background-image: url('/assests/images/robot-front-pushup01.jpeg');
 	background-repeat: no-repeat;
 	background-size: 100%;
-	!background-color:#333399;
-	!background-image: linear-gradient(to right, #8000ff, #4000ff);
+/*
+  background-color:#333399;
+  background-image: linear-gradient(to right, #8000ff, #4000ff);
+*/
 }
 
 h1{
 	color: white;
 	text-align: center;
-	!text-shadow: 2px 2px red;
+/*
+  text-shadow: 2px 2px red;
+*/
 }
 
 h2{
@@ -31,10 +37,10 @@ ul {
   margin: 0;
   float: left;
   border-radius: 15px 50px ;
-*/
+  padding: 10%;
+  */
   list-style-type: none;
   margin: 0;
-  !padding: 10%;
   overflow: hidden;
   background-color: #333;
   position: sticky;
