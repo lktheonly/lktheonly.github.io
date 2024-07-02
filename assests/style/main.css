@@ -38,7 +38,7 @@ ul {
   float: left;
   border-radius: 15px 50px ;
   padding: 10%;
-  */
+*/
   list-style-type: none;
   margin: 0;
   overflow: hidden;
@@ -65,5 +65,7 @@ li a:hover {
 }
 
 div.body01{
+  border: 5px outset #333;
+  text-align: center;
   background-color: #333;
 }
